@@ -1,0 +1,9 @@
+*.mp4
+Debug/
+*.sdf
+*.sln
+*.vspx
+
+
+FluidSim/Debug/
+FluidSim/*.vcxproj*
